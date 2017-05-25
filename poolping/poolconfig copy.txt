@@ -1,0 +1,13 @@
+f2pool;stratum.f2pool.com;8888;2017-05-19 11:07
+eligius;stratum.mining.eligius.st;3334;2017-05-19 11:07
+antpool;solo.antpool.com;3333;2017-05-19 11:07
+btcchina;stratum.btcchina.com;3333;2017-05-19 11:07
+bitminter;mint.bitminter.com;3333;2017-05-19 11:07
+multipool;us-east.multipool.us;11111;2017-05-19 11:07
+multipool;us-west.multipool.us;11111;2017-05-19 11:07
+ckpool;solo.ckpool.org;3333;2017-05-19 11:07
+mergeminingpool;mmpool.org;3333;2017-05-19 11:07
+kano;stratum.kano.is;3333;2017-05-19 11:07
+bw;stratum.bw.com;3333;2017-05-19 11:07
+test;us1.bitminter.com;3333;2017-05-19 11:07
+test2;us-east.multipool.us;7777;2017-05-19 11:07

@@ -1,0 +1,18 @@
+
+slush;stratum.bitcoin.cz;3333;2017-02-01 15:32
+ghash;us1.ghash.io;3333;2017-01-22 21:50
+ghash;uk1.ghash.io;3333;2017-01-22 21:50
+bitcoinaffiliatenetwork;geo.bitcoindigger.com;3333;2017-01-22 21:50
+bitcoinaffiliatenetwork;geo2.bitcoindigger.com;3333;2017-01-22 21:50
+eclipsemc;us1.eclipsemc.com;3333;2017-01-22 21:50
+eclipsemc;us2.eclipsemc.com;3333;2017-01-22 21:50
+eclipsemc;us3.eclipsemc.com;3333;2017-01-22 21:50
+eclipsemc;eu.eclipsemc.com;3333;2017-01-22 21:50
+btcdig;pool0.btcdig.com;3333;2017-01-22 21:50
+btcmp;rr.btcmp.com;3333;2017-01-22 21:50
+triplemining;stratum.triplemining.com;3334;2017-01-22 21:50
+blisterpool;p2p.blisterpool.com;9332;2017-01-22 21:50
+mupool;p2btc.mupool.com;3333;2017-01-22 21:50
+overhash;us1.overhash.com;3333;2017-01-22 21:50
+solomining;solomining.com;3334;2017-01-22 21:50
+ghash;us1.ghash.io;3333;2016-12-01 21:50

@@ -1,0 +1,21 @@
+Modification:
+1.Change file path
+2.Try ip address 108
+3.Add a timeout to receive msg
+4.Add a datetime str to the end
+5.Check time
+
+6.check if the out of time one will be removed
+7. check if the out of time one will be added to the next period file
+8.chekck if the out of time one can be added to an empty file
+9. check if the re-up one can be added back to the up one and removed from this one
+10. add timechecked to it
+
+return多一个list跟踪可以上线的；同时多一个input作为比较单位(如果比较是now，就不用写进文档，now的最后再写)
+
+
+meeting: 
+1.cyberduck
+2.crontab (automatically run)
+3.stratun protocol (try to communicate with the minning server)
+

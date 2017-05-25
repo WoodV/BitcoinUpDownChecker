@@ -1,0 +1,1 @@
+slush;stratum.bitcoin.cz;3333;2017-02-01 15:32
