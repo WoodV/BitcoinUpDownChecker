@@ -1,0 +1,7 @@
+1. Update the anti-DDoS lists
+2. Put all in a giant output
+4. Selenium thing
+
+
+
+

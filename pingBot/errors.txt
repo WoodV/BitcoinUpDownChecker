@@ -1,0 +1,385 @@
+
+http://bitcoinfund.us/ 2017-02-04 18:57:27.444780
+'<urlopen error timed out>
+http://www.bitcoinfund.us/ 2017-02-04 18:58:02.485330
+'<urlopen error timed out>
+https://bitcoinfund.us/ 2017-02-04 18:58:27.489982
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:10:53.510340
+'<urlopen error timed out>
+http://www.bitcoinfund.us/ 2017-02-04 20:11:23.682848
+'<urlopen error timed out>
+https://bitcoinfund.us/ 2017-02-04 20:11:51.685723
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:16:29.888097
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:18:35.004417
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:24:21.033660
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:29:47.250487
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:41:54.373983
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:45:11.016661
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:47:39.798483
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:54:35.683215
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:55:12.502845
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:55:44.506340
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:58:07.358473
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 20:58:36.366077
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:25:58.337346
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:26:33.344877
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:28:34.741687
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:29:01.749682
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:34:18.703299
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 21:37:24.763977
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 22:31:42.049511
+'<urlopen error timed out>
+http://bitcoinfund.us/ 2017-02-04 22:34:48.264537
+'<urlopen error timed out>
+https://coinlenders.com 2017-02-04 22:51:45.559819
+'<urlopen error [Errno 54] Connection reset by peer>
+http://mpex.co/ 2017-02-04 22:52:24.841240
+'HTTP Error 500: Database error
+https://www.strongcoin.com 2017-02-04 22:52:36.104767
+'HTTP Error 503: Service Temporarily Unavailable
+http://liliontransfer.org/ 2017-02-04 22:52:51.286191
+'HTTP Error 403: Forbidden
+https://www.WeExchange.co 2017-02-04 22:53:09.474129
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://bitcoin-24.com 2017-02-04 22:53:27.364046
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://www.bitinstant.com/ 2017-02-04 22:53:41.798875
+'<urlopen error [Errno 61] Connection refused>
+rbitco.in 2017-02-04 22:53:50.463855
+'[Errno 8] nodename nor servname provided, or not known
+https://rbitco.in 2017-02-04 22:53:50.596313
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://bips.me/ 2017-02-04 22:54:22.419735
+'<urlopen error timed out>
+http://bahtcoin.com/ 2017-02-04 22:56:33.729430
+'HTTP Error 503: Service Unavailable
+http://kipochi.com 2017-02-04 22:57:07.754733
+'<urlopen error timed out>
+moneypaktrader.com 2017-02-04 22:58:14.966198
+'[Errno 8] nodename nor servname provided, or not known
+https://moneypaktrader.com 2017-02-04 22:58:15.112179
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://coinb.in 2017-02-04 22:58:33.145629
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://mtgox.com/ 2017-02-04 22:58:52.624311
+'<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)>
+https://www.snapswap.vc 2017-02-04 22:59:31.868341
+'<urlopen error timed out>
+BitcoinCodes.com 2017-02-04 23:01:13.887250
+'[Errno 8] nodename nor servname provided, or not known
+http://BitcoinCodes.com 2017-02-04 23:01:14.466269
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.campbx.com 2017-02-04 23:01:53.909989
+'<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:590)>
+https://bitcoin-central.net/ 2017-02-04 23:02:19.947260
+'<urlopen error [Errno 61] Connection refused>
+https://www.bitservicex.com/ 2017-02-04 23:03:09.905086
+'<urlopen error timed out>
+icbit.se 2017-02-04 23:19:48.010198
+'[Errno 8] nodename nor servname provided, or not known
+https://icbit.se 2017-02-04 23:19:51.146464
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://bitcoin-24.com/ 2017-02-04 23:20:23.434114
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+www.bitcoinary.com 2017-02-04 23:21:35.678012
+'[Errno 8] nodename nor servname provided, or not known
+https://www.bitcoinary.com/ 2017-02-04 23:21:35.795265
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://bitcoinfund.us/ 2017-02-04 23:22:14.687676
+'<urlopen error timed out>
+paytunia.com 2017-02-04 23:23:40.351529
+'[Errno 8] nodename nor servname provided, or not known
+https://paytunia.com 2017-02-04 23:23:40.763378
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+www.bitcoinlocator.com 2017-02-04 23:24:38.464407
+'[Errno 8] nodename nor servname provided, or not known
+http://www.bitcoinlocator.com/ 2017-02-04 23:24:40.245455
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://schweinehaus.de/2011/01/08/die-bitcoin-p2p-krypto-wahrung/ 2017-02-04 23:25:04.219472
+'HTTP Error 404: Not Found
+http://www.alexchenko.net/ 2017-02-04 23:25:35.605826
+'HTTP Error 403: Forbidden
+www.ArtaBit.com 2017-02-04 23:26:42.848484
+'[Errno 8] nodename nor servname provided, or not known
+http://www.ArtaBit.com 2017-02-04 23:26:44.222431
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://coinabul.com/ 2017-02-04 23:27:21.685088
+'timed out
+PikaPay.com 2017-02-04 23:28:27.277470
+'[Errno 8] nodename nor servname provided, or not known
+https://PikaPay.com 2017-02-04 23:28:27.308816
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://kapiton.se/ 2017-02-04 23:28:42.763954
+'<urlopen error [Errno 61] Connection refused>
+https://bitcc.herokuapp.com 2017-02-04 23:29:39.674485
+'HTTP Error 404: Not Found
+https://exante.eu/products/BTC/ 2017-02-04 23:30:19.087329
+'HTTP Error 404: NOT FOUND
+https://www.btclot.com/vcc/ 2017-02-04 23:30:55.588453
+'<urlopen error timed out>
+http://www.oxbridgehouse.com/ 2017-02-04 23:32:29.052632
+'<urlopen error timed out>
+https://btct.co/ 2017-02-04 23:34:53.819849
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://bitcoinwallet.in 2017-02-04 23:35:33.313192
+'<urlopen error timed out>
+https://blockchain.info/wallet/sms-phone-deposits 2017-02-04 23:36:54.513048
+'HTTP Error 404: Not Found
+http://bitXoin.com 2017-02-04 23:37:14.005966
+'<urlopen error [Errno 61] Connection refused>
+http://xbit.me 2017-02-04 23:37:28.163103
+'<urlopen error [Errno 61] Connection refused>
+https://bitbox.mx/ 2017-02-04 23:40:51.367780
+'<urlopen error timed out>
+https://bips.me 2017-02-04 23:42:27.875180
+'<urlopen error timed out>
+https://fastcash4bitcoins.com/ 2017-02-04 23:44:27.110808
+'<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)>
+https://www.sellbitcoinforcash.com 2017-02-04 23:45:17.386831
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://bitpiggy.herokuapp.com/ 2017-02-04 23:46:05.087032
+'('The read operation timed out',)
+intersango.com 2017-02-04 23:47:42.356941
+'[Errno 8] nodename nor servname provided, or not known
+https://intersango.com/ 2017-02-04 23:47:42.476218
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://bitcash.pythonanywhere.com/ 2017-02-04 23:47:59.081977
+'HTTP Error 404: Not Found
+https://i-co.in 2017-02-04 23:48:40.915686
+'<urlopen error [Errno 61] Connection refused>
+https://dgtmkt.com 2017-02-04 23:49:05.155957
+'<urlopen error [Errno 61] Connection refused>
+https://vircurex.com/ 2017-02-04 23:49:42.155950
+'('The read operation timed out',)
+giftcardbtc.com 2017-02-04 23:49:54.865505
+'[Errno 8] nodename nor servname provided, or not known
+http://giftcardbtc.com 2017-02-04 23:49:55.274566
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.wm-center.es/ 2017-02-04 23:50:05.992705
+'hostname 'www.wm-center.es' doesn't match 'www.parkingcrew.com'
+toratm3dhalotm3f.onion 2017-02-04 23:51:17.410639
+'[Errno 8] nodename nor servname provided, or not known
+http://toratm3dhalotm3f.onion/ 2017-02-04 23:51:17.412182
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.bitcoin-otc.com/ 2017-02-04 23:51:28.903685
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://www.koinmail.com/ 2017-02-04 23:52:06.303813
+'<urlopen error [Errno 61] Connection refused>
+https://www.wisermetals.com/ 2017-02-04 23:54:43.246549
+'<urlopen error [Errno 61] Connection refused>
+http://www.bit4x.com 2017-02-04 23:55:05.892962
+'<urlopen error [Errno 61] Connection refused>
+goldexpert.com 2017-02-04 23:55:25.781365
+'[Errno 8] nodename nor servname provided, or not known
+http://goldexpert.com 2017-02-04 23:55:25.808839
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.bitsilver.us 2017-02-04 23:56:59.197897
+'<urlopen error timed out>
+rbitco.in 2017-02-04 23:58:15.267997
+'[Errno 8] nodename nor servname provided, or not known
+https://rbitco.in/print 2017-02-04 23:58:15.299526
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+www.ArtaBit.com 2017-02-05 10:31:29.246580
+'[Errno 8] nodename nor servname provided, or not known
+http://www.ArtaBit.com 2017-02-05 10:31:32.727470
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+giftcardbtc.com 2017-02-05 10:32:11.750853
+'[Errno 8] nodename nor servname provided, or not known
+http://giftcardbtc.com 2017-02-05 10:32:11.961501
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.alexchenko.net/ 2017-02-05 10:32:51.155547
+'HTTP Error 403: Forbidden
+http://bitcoinfund.us/ 2017-02-05 10:33:44.011852
+'<urlopen error timed out>
+https://bitcc.herokuapp.com 2017-02-05 10:35:07.629802
+'HTTP Error 404: Not Found
+PikaPay.com 2017-02-05 10:35:38.254271
+'[Errno 8] nodename nor servname provided, or not known
+https://PikaPay.com 2017-02-05 10:35:38.374140
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+moneypaktrader.com 2017-02-05 10:35:52.092923
+'[Errno 8] nodename nor servname provided, or not known
+https://moneypaktrader.com 2017-02-05 10:35:52.241803
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://bitcoin-24.com/ 2017-02-05 10:36:10.237854
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://www.btclot.com/vcc/ 2017-02-05 10:37:20.919651
+'<urlopen error [Errno 61] Connection refused>
+https://bips.me 2017-02-05 10:39:01.680482
+'<urlopen error timed out>
+http://coinabul.com/ 2017-02-05 10:40:29.998666
+'timed out
+https://www.bitinstant.com/ 2017-02-05 10:41:20.851997
+'<urlopen error [Errno 61] Connection refused>
+http://gold2bitcoins.com 2017-02-05 12:54:58.555317
+'[Errno 54] Connection reset by peer
+https://bitcoin-24.com 2017-02-05 12:55:17.606950
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://www.snapswap.vc 2017-02-05 12:56:18.158025
+'<urlopen error timed out>
+https://bips.me/ 2017-02-05 12:58:06.315312
+'<urlopen error timed out>
+BitcoinCodes.com 2017-02-05 12:59:18.740550
+'[Errno 8] nodename nor servname provided, or not known
+http://BitcoinCodes.com 2017-02-05 12:59:18.888484
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://btct.co/ 2017-02-05 13:00:16.761778
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://coinlenders.com 2017-02-05 13:00:45.574582
+'<urlopen error [Errno 54] Connection reset by peer>
+www.bitcoinlocator.com 2017-02-05 13:01:50.820403
+'[Errno 8] nodename nor servname provided, or not known
+http://www.bitcoinlocator.com/ 2017-02-05 13:01:52.328973
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+intersango.com 2017-02-05 13:02:12.125543
+'[Errno 8] nodename nor servname provided, or not known
+https://intersango.com/ 2017-02-05 13:02:12.161874
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://liliontransfer.org/ 2017-02-05 13:02:31.340913
+'HTTP Error 403: Forbidden
+https://www.strongcoin.com 2017-02-05 13:03:59.991340
+'HTTP Error 503: Service Temporarily Unavailable
+http://www.bit4x.com 2017-02-05 13:04:14.101740
+'<urlopen error [Errno 61] Connection refused>
+https://www.wisermetals.com/ 2017-02-05 13:04:33.122265
+'<urlopen error [Errno 61] Connection refused>
+https://www.bitservicex.com/ 2017-02-05 13:05:09.769208
+'<urlopen error timed out>
+http://schweinehaus.de/2011/01/08/die-bitcoin-p2p-krypto-wahrung/ 2017-02-05 13:06:26.774109
+'HTTP Error 404: Not Found
+http://bahtcoin.com/ 2017-02-05 13:06:47.208961
+'HTTP Error 503: Service Unavailable
+goldexpert.com 2017-02-05 13:06:56.997263
+'[Errno 8] nodename nor servname provided, or not known
+http://goldexpert.com 2017-02-05 13:06:57.113327
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://coinb.in 2017-02-05 13:07:09.778872
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://i-co.in 2017-02-05 13:07:50.773334
+'<urlopen error [Errno 61] Connection refused>
+https://bitpiggy.herokuapp.com/ 2017-02-05 13:08:20.506816
+'('The read operation timed out',)
+https://www.bitinstant.com/ 2017-02-05 13:10:21.080222
+'<urlopen error [Errno 61] Connection refused>
+https://bitcoin-24.com/ 2017-02-05 13:10:32.961984
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://bitbox.mx/ 2017-02-05 13:11:31.612834
+'<urlopen error timed out>
+https://dgtmkt.com 2017-02-05 13:12:42.935693
+'<urlopen error [Errno 61] Connection refused>
+http://bitcash.pythonanywhere.com/ 2017-02-05 13:13:26.513964
+'HTTP Error 404: Not Found
+paytunia.com 2017-02-05 13:13:42.776353
+'[Errno 8] nodename nor servname provided, or not known
+https://paytunia.com 2017-02-05 13:13:43.205073
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://xbit.me 2017-02-05 13:14:27.619744
+'<urlopen error [Errno 61] Connection refused>
+https://mtgox.com/ 2017-02-05 13:15:05.111383
+'<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)>
+icbit.se 2017-02-05 13:15:26.818418
+'[Errno 8] nodename nor servname provided, or not known
+https://icbit.se 2017-02-05 13:15:30.740132
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.bitsilver.us 2017-02-05 13:16:51.373811
+'<urlopen error timed out>
+toratm3dhalotm3f.onion 2017-02-05 13:18:30.678025
+'[Errno 8] nodename nor servname provided, or not known
+http://toratm3dhalotm3f.onion/ 2017-02-05 13:18:30.679719
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://exante.eu/products/BTC/ 2017-02-05 13:18:51.401239
+'HTTP Error 404: NOT FOUND
+http://coinabul.com/ 2017-02-05 13:19:36.577658
+'timed out
+https://www.WeExchange.co 2017-02-05 13:20:44.252919
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://vircurex.com/ 2017-02-05 13:21:05.165653
+'HTTP Error 502: Bad Gateway
+https://www.sellbitcoinforcash.com 2017-02-05 13:21:16.279736
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+https://bips.me 2017-02-05 13:22:26.455833
+'<urlopen error timed out>
+www.ArtaBit.com 2017-02-05 13:23:50.551468
+'[Errno 8] nodename nor servname provided, or not known
+http://www.ArtaBit.com 2017-02-05 13:23:52.226910
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://mpex.co/ 2017-02-05 13:24:08.210850
+'HTTP Error 500: Database error
+http://www.oxbridgehouse.com/ 2017-02-05 13:24:52.242619
+'<urlopen error timed out>
+https://blockchain.info/wallet/sms-phone-deposits 2017-02-05 13:26:25.542798
+'HTTP Error 404: Not Found
+moneypaktrader.com 2017-02-05 13:26:58.286477
+'[Errno 8] nodename nor servname provided, or not known
+https://moneypaktrader.com 2017-02-05 13:26:58.434247
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://bitcoin-central.net/ 2017-02-05 13:27:11.085079
+'<urlopen error [Errno 61] Connection refused>
+https://www.koinmail.com/ 2017-02-05 13:28:14.064604
+'<urlopen error timed out>
+http://bitXoin.com 2017-02-05 13:29:29.423697
+'<urlopen error [Errno 61] Connection refused>
+https://www.wm-center.es/ 2017-02-05 13:29:41.864756
+'hostname 'www.wm-center.es' doesn't match 'www.parkingcrew.com'
+https://coinbase.com 2017-02-05 13:30:22.636047
+'HTTP Error 504: Gateway Time-out
+http://www.alexchenko.net/ 2017-02-05 13:30:38.158825
+'HTTP Error 403: Forbidden
+https://bitcoinwallet.in 2017-02-05 13:32:01.690532
+'<urlopen error timed out>
+http://kipochi.com 2017-02-05 13:33:34.935482
+'<urlopen error timed out>
+https://www.btclot.com/vcc/ 2017-02-05 13:35:25.152812
+'<urlopen error timed out>
+PikaPay.com 2017-02-05 13:36:59.341559
+'[Errno 8] nodename nor servname provided, or not known
+https://PikaPay.com 2017-02-05 13:36:59.459574
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://fastcash4bitcoins.com/ 2017-02-05 13:38:12.952645
+'<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)>
+rbitco.in 2017-02-05 13:38:39.432380
+'[Errno 8] nodename nor servname provided, or not known
+https://rbitco.in 2017-02-05 13:38:39.462494
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+www.bitcoinary.com 2017-02-05 13:39:05.625791
+'[Errno 8] nodename nor servname provided, or not known
+https://www.bitcoinary.com/ 2017-02-05 13:39:05.747250
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://bitcoinfund.us/ 2017-02-05 13:41:01.596787
+'<urlopen error timed out>
+https://www.campbx.com 2017-02-05 13:42:51.841791
+'<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:590)>
+giftcardbtc.com 2017-02-05 13:43:36.458292
+'[Errno 8] nodename nor servname provided, or not known
+http://giftcardbtc.com 2017-02-05 13:43:36.853466
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://kapiton.se/ 2017-02-05 13:44:17.759997
+'<urlopen error [Errno 61] Connection refused>
+http://www.bitcoin-otc.com/ 2017-02-05 13:44:44.920111
+'<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)>
+rbitco.in 2017-02-05 13:45:08.811815
+'[Errno 8] nodename nor servname provided, or not known
+https://rbitco.in/print 2017-02-05 13:45:08.814866
+'<urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://bitcc.herokuapp.com 2017-02-05 13:45:45.557250
+'HTTP Error 404: Not Found
